@@ -4,4 +4,4 @@ Python files are the main code used to produce the results and diagrams in the P
 
 # Zip files
 
-The zip files are the results for the energy and points of configurations for the Thomson Problem and the two types of Central Configurations and are needed to run some of the codes that plot the diagrams.
+The zip files are the results for the energy and points of configurations for the Thomson Problem and the two types of Central Configurations and are needed to run some of the code that plot the diagrams.
