@@ -1,3 +1,7 @@
+# Summary
+
+This repository contains the code that was run to generate the results and diagrams in the report on 'Points on a Sphere and Related Problems' written by Olivia French, Durham University, 2022.
+
 # Python files
 
 Python files are the main code used to produce the results and diagrams in the Points on a Sphere and Related Problems report.
